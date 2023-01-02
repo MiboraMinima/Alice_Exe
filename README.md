@@ -1,4 +1,4 @@
-# Découvre si tu es la crush d'Alice avec ce programme
+# Découvre si tu es le crush d'Alice avec ce programme
 
 *Nota : ce tuto a été pensé pour windows*
 
